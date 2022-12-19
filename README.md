@@ -1,1 +1,1 @@
-# LGMtask1-calculator
+# LGMtask1-TODOlist
